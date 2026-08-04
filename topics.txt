@@ -1,0 +1,82 @@
+# Format: Category|Topic Name
+# One topic per line. Lines starting with # are ignored.
+# The generator picks the first topic here not yet listed in generator/used_topics.txt.
+Security|Password Generator
+Utilities|QR Code Generator
+API|Weather API Client
+File|PDF Merger
+Image|Image Resizer
+Utilities|Expense Tracker
+CLI|Command Line Calculator
+Utilities|JSON Formatter
+File|CSV Reader and Analyzer
+File|File Organizer by Extension
+File|Duplicate File Finder
+Automation|Clipboard Manager
+Automation|Bulk File Renamer
+Networking|Port Scanner
+Networking|Simple HTTP Server
+API|Currency Converter
+Web|Website Uptime Checker
+Web|Simple Web Scraper
+Automation|Email Sender
+Automation|Automated Backup Script
+File|Directory Tree Printer
+Utilities|Unit Converter
+Utilities|Markdown to HTML Converter
+CLI|To-Do List CLI App
+Games|Number Guessing Game
+Games|Rock Paper Scissors
+Games|Hangman Game
+Games|Tic Tac Toe
+AI|Text Summarizer
+AI|Sentiment Analyzer
+AI|Chatbot with Rule-Based Responses
+DataScience|CSV to Chart Plotter
+DataScience|Data Cleaning Script
+DataScience|Simple Linear Regression
+Database|SQLite CRUD App
+Database|JSON as a Database
+Security|Password Strength Checker
+Security|File Hash Checker
+Security|Simple Caesar Cipher
+Security|Simple File Encryptor
+Networking|Ping Sweep Tool
+Networking|Bandwidth Usage Monitor
+Image|Image to Grayscale Converter
+Image|Image Watermarking Tool
+Image|Batch Image Format Converter
+Utilities|Text-to-Speech Converter
+Utilities|Speech-to-Text Transcriber
+Automation|PDF to Text Extractor
+Automation|Screenshot Automation
+API|News Headlines Fetcher
+API|GitHub Repo Stats Fetcher
+API|Random Joke Fetcher
+Web|Link Checker
+Web|RSS Feed Reader
+CLI|CLI Weather Dashboard
+CLI|CLI Pomodoro Timer
+Utilities|Random Password Vault
+Utilities|Barcode Generator
+File|File Compression Tool
+File|Log File Analyzer
+Automation|Automated Report Generator
+Automation|System Info Reporter
+Networking|Simple Chat Server
+Networking|IP Address Lookup Tool
+Projects|Personal Budget Planner
+Projects|Habit Tracker
+Projects|Recipe Finder
+Projects|Library Management System
+Projects|Contact Book Manager
+DataScience|Word Frequency Counter
+DataScience|CSV Data Merger
+Games|Memory Card Game
+Games|Snake Game (Console)
+AI|Keyword Extractor
+AI|Simple Recommendation Engine
+Utilities|URL Shortener
+Utilities|Timezone Converter
+Security|Two Factor Code Generator
+Database|CSV to SQLite Importer

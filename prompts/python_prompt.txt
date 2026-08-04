@@ -1,0 +1,11 @@
+Generate ONE useful, complete, standalone Python script for the topic: "{topic}"
+
+Rules:
+- Beginner friendly and practical — something a learner could actually run and understand.
+- Fully self-contained in a single file (only standard library unless the topic clearly requires a well-known third-party package, in which case add a short comment at the top listing the pip install command).
+- Fully commented where the logic is non-obvious.
+- Include a module-level docstring describing what the script does.
+- Include a `if __name__ == "__main__":` block with a working example usage.
+- Do not wrap output in markdown code fences.
+- Do not include any explanation before or after the code.
+- Output ONLY raw Python code, nothing else.
