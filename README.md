@@ -41,5 +41,6 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-08-04 — **QR Code Generator** (Utilities) — [2026-08-04_qr_code_generator.py](Utilities/2026-08-04_qr_code_generator.py)
 - 2026-08-04 — **Password Generator** (Security) — [2026-08-04_password_generator.py](Security/2026-08-04_password_generator.py)
 <!-- LATEST_SCRIPTS_END -->

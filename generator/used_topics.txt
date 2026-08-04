@@ -1,1 +1,2 @@
 Security|Password Generator
+Utilities|QR Code Generator
