@@ -1,2 +1,3 @@
 Security|Password Generator
 Utilities|QR Code Generator
+API|Weather API Client
