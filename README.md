@@ -14,7 +14,29 @@ Every day a GitHub Action picks the next topic from [`topics.txt`](topics.txt), 
 
 ## Categories
 
+Generated scripts land in one of these:
+
 `Automation` `API` `Web` `AI` `CLI` `Utilities` `File` `Image` `Networking` `Database` `Security` `DataScience` `Games` `Projects`
+
+Two folders sit outside that rotation:
+
+- `Learning/` — hand-written practice files and language notes, not generated.
+- `assets/` — images, SVGs and JS data files used or produced by the scripts in `Image/`.
+
+## Hand-written scripts
+
+| Script | What it does |
+| --- | --- |
+| [`Image/ascii_svg.py`](Image/ascii_svg.py) | Converts an image to ASCII art and saves a self-typing animated SVG |
+| [`Image/silhouette_js.py`](Image/silhouette_js.py) | Samples an image into a flat JS coordinate array for canvas reveal animations |
+| [`Image/ImageCompressor.py`](Image/ImageCompressor.py) | Threaded bulk image compressor |
+| [`Image/image_download.py`](Image/image_download.py) | Downloads every image URL in a JSON payload |
+| [`Image/decode_sctx.py`](Image/decode_sctx.py) | Decodes Supercell SCTX sprite textures to PNG |
+| [`Image/decode_si.py`](Image/decode_si.py) | Decodes Supercell `.si` binary vector files to SVG |
+| [`Networking/fileserver.py`](Networking/fileserver.py) | LAN file server for browsing and downloading over the local network |
+| [`File/read_file_name.py`](File/read_file_name.py) | Prints the file names inside a folder as asset path entries |
+| [`File/remove_webp_image.py`](File/remove_webp_image.py) | Recursively deletes `.webp` files from a folder tree |
+| [`Utilities/unicode_to_preeti.py`](Utilities/unicode_to_preeti.py) | Converts DOCX text between Unicode and Preeti encodings |
 
 ## Latest Scripts
 
