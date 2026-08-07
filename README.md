@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-08-07 — **Expense Tracker** (Utilities) — [2026-08-07_expense_tracker.py](Utilities/2026-08-07_expense_tracker.py)
 - 2026-08-06 — **Image Resizer** (Image) — [2026-08-06_image_resizer.py](Image/2026-08-06_image_resizer.py)
 - 2026-08-05 — **PDF Merger** (File) — [2026-08-05_pdf_merger.py](File/2026-08-05_pdf_merger.py)
 - 2026-08-04 — **Weather API Client** (API) — [2026-08-04_weather_api_client.py](API/2026-08-04_weather_api_client.py)

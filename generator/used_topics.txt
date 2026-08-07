@@ -3,3 +3,4 @@ Utilities|QR Code Generator
 API|Weather API Client
 File|PDF Merger
 Image|Image Resizer
+Utilities|Expense Tracker
