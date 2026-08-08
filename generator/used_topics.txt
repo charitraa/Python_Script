@@ -4,3 +4,4 @@ API|Weather API Client
 File|PDF Merger
 Image|Image Resizer
 Utilities|Expense Tracker
+CLI|Command Line Calculator
