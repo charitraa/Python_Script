@@ -6,3 +6,4 @@ Image|Image Resizer
 Utilities|Expense Tracker
 CLI|Command Line Calculator
 Utilities|JSON Formatter
+File|CSV Reader and Analyzer

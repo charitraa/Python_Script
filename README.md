@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-08-10 — **CSV Reader and Analyzer** (File) — [2026-08-10_csv_reader_and_analyzer.py](File/2026-08-10_csv_reader_and_analyzer.py)
 - 2026-08-09 — **JSON Formatter** (Utilities) — [2026-08-09_json_formatter.py](Utilities/2026-08-09_json_formatter.py)
 - 2026-08-08 — **Command Line Calculator** (CLI) — [2026-08-08_command_line_calculator.py](CLI/2026-08-08_command_line_calculator.py)
 - 2026-08-07 — **Expense Tracker** (Utilities) — [2026-08-07_expense_tracker.py](Utilities/2026-08-07_expense_tracker.py)
