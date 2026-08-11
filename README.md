@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-08-11 — **Duplicate File Finder** (File) — [2026-08-11_duplicate_file_finder.py](File/2026-08-11_duplicate_file_finder.py)
 - 2026-08-10 — **File Organizer by Extension** (File) — [2026-08-10_file_organizer_by_extension.py](File/2026-08-10_file_organizer_by_extension.py)
 - 2026-08-10 — **CSV Reader and Analyzer** (File) — [2026-08-10_csv_reader_and_analyzer.py](File/2026-08-10_csv_reader_and_analyzer.py)
 - 2026-08-09 — **JSON Formatter** (Utilities) — [2026-08-09_json_formatter.py](Utilities/2026-08-09_json_formatter.py)
