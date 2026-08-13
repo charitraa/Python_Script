@@ -10,3 +10,4 @@ File|CSV Reader and Analyzer
 File|File Organizer by Extension
 File|Duplicate File Finder
 Automation|Clipboard Manager
+Automation|Bulk File Renamer
