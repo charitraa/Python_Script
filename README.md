@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-08-15 — **Simple HTTP Server** (Networking) — [2026-08-15_simple_http_server.py](Networking/2026-08-15_simple_http_server.py)
 - 2026-08-14 — **Port Scanner** (Networking) — [2026-08-14_port_scanner.py](Networking/2026-08-14_port_scanner.py)
 - 2026-08-13 — **Bulk File Renamer** (Automation) — [2026-08-13_bulk_file_renamer.py](Automation/2026-08-13_bulk_file_renamer.py)
 - 2026-08-12 — **Clipboard Manager** (Automation) — [2026-08-12_clipboard_manager.py](Automation/2026-08-12_clipboard_manager.py)

@@ -12,3 +12,4 @@ File|Duplicate File Finder
 Automation|Clipboard Manager
 Automation|Bulk File Renamer
 Networking|Port Scanner
+Networking|Simple HTTP Server
