@@ -14,3 +14,4 @@ Automation|Bulk File Renamer
 Networking|Port Scanner
 Networking|Simple HTTP Server
 API|Currency Converter
+Web|Website Uptime Checker
