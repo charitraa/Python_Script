@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-08-19 — **Simple Web Scraper** (Web) — [2026-08-19_simple_web_scraper.py](Web/2026-08-19_simple_web_scraper.py)
 - 2026-08-18 — **Website Uptime Checker** (Web) — [2026-08-18_website_uptime_checker.py](Web/2026-08-18_website_uptime_checker.py)
 - 2026-08-17 — **Currency Converter** (API) — [2026-08-17_currency_converter.py](API/2026-08-17_currency_converter.py)
 - 2026-08-15 — **Simple HTTP Server** (Networking) — [2026-08-15_simple_http_server.py](Networking/2026-08-15_simple_http_server.py)
