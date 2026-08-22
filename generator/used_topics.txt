@@ -17,3 +17,4 @@ API|Currency Converter
 Web|Website Uptime Checker
 Web|Simple Web Scraper
 Automation|Email Sender
+Automation|Automated Backup Script

@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-08-22 — **Automated Backup Script** (Automation) — [2026-08-22_automated_backup_script.py](Automation/2026-08-22_automated_backup_script.py)
 - 2026-08-20 — **Email Sender** (Automation) — [2026-08-20_email_sender.py](Automation/2026-08-20_email_sender.py)
 - 2026-08-19 — **Simple Web Scraper** (Web) — [2026-08-19_simple_web_scraper.py](Web/2026-08-19_simple_web_scraper.py)
 - 2026-08-18 — **Website Uptime Checker** (Web) — [2026-08-18_website_uptime_checker.py](Web/2026-08-18_website_uptime_checker.py)
