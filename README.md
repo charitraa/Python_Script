@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-08-25 — **Unit Converter** (Utilities) — [2026-08-25_unit_converter.py](Utilities/2026-08-25_unit_converter.py)
 - 2026-08-23 — **Directory Tree Printer** (File) — [2026-08-23_directory_tree_printer.py](File/2026-08-23_directory_tree_printer.py)
 - 2026-08-22 — **Automated Backup Script** (Automation) — [2026-08-22_automated_backup_script.py](Automation/2026-08-22_automated_backup_script.py)
 - 2026-08-20 — **Email Sender** (Automation) — [2026-08-20_email_sender.py](Automation/2026-08-20_email_sender.py)
