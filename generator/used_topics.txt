@@ -20,3 +20,4 @@ Automation|Email Sender
 Automation|Automated Backup Script
 File|Directory Tree Printer
 Utilities|Unit Converter
+Utilities|Markdown to HTML Converter
