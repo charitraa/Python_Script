@@ -21,3 +21,4 @@ Automation|Automated Backup Script
 File|Directory Tree Printer
 Utilities|Unit Converter
 Utilities|Markdown to HTML Converter
+CLI|To-Do List CLI App

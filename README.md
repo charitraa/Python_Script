@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-08-27 — **To-Do List CLI App** (CLI) — [2026-08-27_to_do_list_cli_app.py](CLI/2026-08-27_to_do_list_cli_app.py)
 - 2026-08-26 — **Markdown to HTML Converter** (Utilities) — [2026-08-26_markdown_to_html_converter.py](Utilities/2026-08-26_markdown_to_html_converter.py)
 - 2026-08-25 — **Unit Converter** (Utilities) — [2026-08-25_unit_converter.py](Utilities/2026-08-25_unit_converter.py)
 - 2026-08-23 — **Directory Tree Printer** (File) — [2026-08-23_directory_tree_printer.py](File/2026-08-23_directory_tree_printer.py)
