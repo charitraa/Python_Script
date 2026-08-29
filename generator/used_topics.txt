@@ -23,3 +23,4 @@ Utilities|Unit Converter
 Utilities|Markdown to HTML Converter
 CLI|To-Do List CLI App
 Games|Number Guessing Game
+Games|Rock Paper Scissors
