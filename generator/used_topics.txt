@@ -25,3 +25,4 @@ CLI|To-Do List CLI App
 Games|Number Guessing Game
 Games|Rock Paper Scissors
 Games|Hangman Game
+Games|Tic Tac Toe
