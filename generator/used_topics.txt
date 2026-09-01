@@ -26,3 +26,4 @@ Games|Number Guessing Game
 Games|Rock Paper Scissors
 Games|Hangman Game
 Games|Tic Tac Toe
+AI|Text Summarizer
