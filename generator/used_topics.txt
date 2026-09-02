@@ -27,3 +27,4 @@ Games|Rock Paper Scissors
 Games|Hangman Game
 Games|Tic Tac Toe
 AI|Text Summarizer
+AI|Sentiment Analyzer

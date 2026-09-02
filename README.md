@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-09-02 — **Sentiment Analyzer** (AI) — [2026-09-02_sentiment_analyzer.py](AI/2026-09-02_sentiment_analyzer.py)
 - 2026-09-01 — **Text Summarizer** (AI) — [2026-09-01_text_summarizer.py](AI/2026-09-01_text_summarizer.py)
 - 2026-08-31 — **Tic Tac Toe** (Games) — [2026-08-31_tic_tac_toe.py](Games/2026-08-31_tic_tac_toe.py)
 - 2026-08-30 — **Hangman Game** (Games) — [2026-08-30_hangman_game.py](Games/2026-08-30_hangman_game.py)
