@@ -28,3 +28,4 @@ Games|Hangman Game
 Games|Tic Tac Toe
 AI|Text Summarizer
 AI|Sentiment Analyzer
+AI|Chatbot with Rule-Based Responses
