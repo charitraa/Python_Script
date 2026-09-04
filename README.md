@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-09-04 — **CSV to Chart Plotter** (DataScience) — [2026-09-04_csv_to_chart_plotter.py](DataScience/2026-09-04_csv_to_chart_plotter.py)
 - 2026-09-03 — **Chatbot with Rule-Based Responses** (AI) — [2026-09-03_chatbot_with_rule_based_responses.py](AI/2026-09-03_chatbot_with_rule_based_responses.py)
 - 2026-09-02 — **Sentiment Analyzer** (AI) — [2026-09-02_sentiment_analyzer.py](AI/2026-09-02_sentiment_analyzer.py)
 - 2026-09-01 — **Text Summarizer** (AI) — [2026-09-01_text_summarizer.py](AI/2026-09-01_text_summarizer.py)
