@@ -50,6 +50,7 @@ mpmath
 netaddr
 numpy
 oauthlib
+opencv-python
 packaging
 pexpect
 pillow
