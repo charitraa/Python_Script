@@ -30,3 +30,4 @@ AI|Text Summarizer
 AI|Sentiment Analyzer
 AI|Chatbot with Rule-Based Responses
 DataScience|CSV to Chart Plotter
+DataScience|Data Cleaning Script
