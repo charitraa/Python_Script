@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-09-08 — **Simple Linear Regression** (DataScience) — [2026-09-08_simple_linear_regression.py](DataScience/2026-09-08_simple_linear_regression.py)
 - 2026-09-06 — **Data Cleaning Script** (DataScience) — [2026-09-06_data_cleaning_script.py](DataScience/2026-09-06_data_cleaning_script.py)
 - 2026-09-04 — **CSV to Chart Plotter** (DataScience) — [2026-09-04_csv_to_chart_plotter.py](DataScience/2026-09-04_csv_to_chart_plotter.py)
 - 2026-09-03 — **Chatbot with Rule-Based Responses** (AI) — [2026-09-03_chatbot_with_rule_based_responses.py](AI/2026-09-03_chatbot_with_rule_based_responses.py)
