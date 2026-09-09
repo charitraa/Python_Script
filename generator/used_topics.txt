@@ -32,3 +32,4 @@ AI|Chatbot with Rule-Based Responses
 DataScience|CSV to Chart Plotter
 DataScience|Data Cleaning Script
 DataScience|Simple Linear Regression
+Database|SQLite CRUD App
