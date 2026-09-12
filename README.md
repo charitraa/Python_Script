@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-09-12 — **Password Strength Checker** (Security) — [2026-09-12_password_strength_checker.py](Security/2026-09-12_password_strength_checker.py)
 - 2026-09-11 — **JSON as a Database** (Database) — [2026-09-11_json_as_a_database.py](Database/2026-09-11_json_as_a_database.py)
 - 2026-09-09 — **SQLite CRUD App** (Database) — [2026-09-09_sqlite_crud_app.py](Database/2026-09-09_sqlite_crud_app.py)
 - 2026-09-08 — **Simple Linear Regression** (DataScience) — [2026-09-08_simple_linear_regression.py](DataScience/2026-09-08_simple_linear_regression.py)
