@@ -35,3 +35,4 @@ DataScience|Simple Linear Regression
 Database|SQLite CRUD App
 Database|JSON as a Database
 Security|Password Strength Checker
+Security|File Hash Checker
