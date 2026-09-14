@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-09-14 — **Simple Caesar Cipher** (Security) — [2026-09-14_simple_caesar_cipher.py](Security/2026-09-14_simple_caesar_cipher.py)
 - 2026-09-13 — **File Hash Checker** (Security) — [2026-09-13_file_hash_checker.py](Security/2026-09-13_file_hash_checker.py)
 - 2026-09-12 — **Password Strength Checker** (Security) — [2026-09-12_password_strength_checker.py](Security/2026-09-12_password_strength_checker.py)
 - 2026-09-11 — **JSON as a Database** (Database) — [2026-09-11_json_as_a_database.py](Database/2026-09-11_json_as_a_database.py)
