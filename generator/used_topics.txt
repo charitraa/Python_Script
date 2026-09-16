@@ -37,3 +37,4 @@ Database|JSON as a Database
 Security|Password Strength Checker
 Security|File Hash Checker
 Security|Simple Caesar Cipher
+Security|Simple File Encryptor
