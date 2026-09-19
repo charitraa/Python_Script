@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-09-19 — **Bandwidth Usage Monitor** (Networking) — [2026-09-19_bandwidth_usage_monitor.py](Networking/2026-09-19_bandwidth_usage_monitor.py)
 - 2026-09-18 — **Ping Sweep Tool** (Networking) — [2026-09-18_ping_sweep_tool.py](Networking/2026-09-18_ping_sweep_tool.py)
 - 2026-09-16 — **Simple File Encryptor** (Security) — [2026-09-16_simple_file_encryptor.py](Security/2026-09-16_simple_file_encryptor.py)
 - 2026-09-14 — **Simple Caesar Cipher** (Security) — [2026-09-14_simple_caesar_cipher.py](Security/2026-09-14_simple_caesar_cipher.py)
