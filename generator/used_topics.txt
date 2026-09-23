@@ -42,3 +42,4 @@ Networking|Ping Sweep Tool
 Networking|Bandwidth Usage Monitor
 Image|Image to Grayscale Converter
 Image|Image Watermarking Tool
+Image|Batch Image Format Converter
