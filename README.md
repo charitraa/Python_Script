@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-09-24 — **Text-to-Speech Converter** (Utilities) — [2026-09-24_text_to_speech_converter.py](Utilities/2026-09-24_text_to_speech_converter.py)
 - 2026-09-23 — **Batch Image Format Converter** (Image) — [2026-09-23_batch_image_format_converter.py](Image/2026-09-23_batch_image_format_converter.py)
 - 2026-09-22 — **Image Watermarking Tool** (Image) — [2026-09-22_image_watermarking_tool.py](Image/2026-09-22_image_watermarking_tool.py)
 - 2026-09-20 — **Image to Grayscale Converter** (Image) — [2026-09-20_image_to_grayscale_converter.py](Image/2026-09-20_image_to_grayscale_converter.py)
