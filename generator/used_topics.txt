@@ -44,3 +44,4 @@ Image|Image to Grayscale Converter
 Image|Image Watermarking Tool
 Image|Batch Image Format Converter
 Utilities|Text-to-Speech Converter
+Utilities|Speech-to-Text Transcriber
