@@ -46,3 +46,4 @@ Image|Batch Image Format Converter
 Utilities|Text-to-Speech Converter
 Utilities|Speech-to-Text Transcriber
 Automation|PDF to Text Extractor
+Automation|Screenshot Automation
