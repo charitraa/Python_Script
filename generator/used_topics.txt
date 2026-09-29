@@ -48,3 +48,4 @@ Utilities|Speech-to-Text Transcriber
 Automation|PDF to Text Extractor
 Automation|Screenshot Automation
 API|News Headlines Fetcher
+API|GitHub Repo Stats Fetcher
