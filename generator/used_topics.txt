@@ -51,3 +51,4 @@ API|News Headlines Fetcher
 API|GitHub Repo Stats Fetcher
 API|Random Joke Fetcher
 Web|Link Checker
+Web|RSS Feed Reader

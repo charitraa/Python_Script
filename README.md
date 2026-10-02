@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-10-02 — **RSS Feed Reader** (Web) — [2026-10-02_rss_feed_reader.py](Web/2026-10-02_rss_feed_reader.py)
 - 2026-10-01 — **Link Checker** (Web) — [2026-10-01_link_checker.py](Web/2026-10-01_link_checker.py)
 - 2026-09-30 — **Random Joke Fetcher** (API) — [2026-09-30_random_joke_fetcher.py](API/2026-09-30_random_joke_fetcher.py)
 - 2026-09-29 — **GitHub Repo Stats Fetcher** (API) — [2026-09-29_github_repo_stats_fetcher.py](API/2026-09-29_github_repo_stats_fetcher.py)
