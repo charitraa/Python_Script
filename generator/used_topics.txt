@@ -52,3 +52,4 @@ API|GitHub Repo Stats Fetcher
 API|Random Joke Fetcher
 Web|Link Checker
 Web|RSS Feed Reader
+CLI|CLI Weather Dashboard
