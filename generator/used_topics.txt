@@ -54,3 +54,4 @@ Web|Link Checker
 Web|RSS Feed Reader
 CLI|CLI Weather Dashboard
 CLI|CLI Pomodoro Timer
+Utilities|Random Password Vault

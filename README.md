@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-10-05 — **Random Password Vault** (Utilities) — [2026-10-05_random_password_vault.py](Utilities/2026-10-05_random_password_vault.py)
 - 2026-10-04 — **CLI Pomodoro Timer** (CLI) — [2026-10-04_cli_pomodoro_timer.py](CLI/2026-10-04_cli_pomodoro_timer.py)
 - 2026-10-03 — **CLI Weather Dashboard** (CLI) — [2026-10-03_cli_weather_dashboard.py](CLI/2026-10-03_cli_weather_dashboard.py)
 - 2026-10-02 — **RSS Feed Reader** (Web) — [2026-10-02_rss_feed_reader.py](Web/2026-10-02_rss_feed_reader.py)
