@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-10-07 — **File Compression Tool** (File) — [2026-10-07_file_compression_tool.py](File/2026-10-07_file_compression_tool.py)
 - 2026-10-06 — **Barcode Generator** (Utilities) — [2026-10-06_barcode_generator.py](Utilities/2026-10-06_barcode_generator.py)
 - 2026-10-05 — **Random Password Vault** (Utilities) — [2026-10-05_random_password_vault.py](Utilities/2026-10-05_random_password_vault.py)
 - 2026-10-04 — **CLI Pomodoro Timer** (CLI) — [2026-10-04_cli_pomodoro_timer.py](CLI/2026-10-04_cli_pomodoro_timer.py)
