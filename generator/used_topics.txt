@@ -57,3 +57,4 @@ CLI|CLI Pomodoro Timer
 Utilities|Random Password Vault
 Utilities|Barcode Generator
 File|File Compression Tool
+File|Log File Analyzer
