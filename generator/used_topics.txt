@@ -58,3 +58,4 @@ Utilities|Random Password Vault
 Utilities|Barcode Generator
 File|File Compression Tool
 File|Log File Analyzer
+Automation|Automated Report Generator
