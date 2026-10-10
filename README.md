@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-10-10 — **System Info Reporter** (Automation) — [2026-10-10_system_info_reporter.py](Automation/2026-10-10_system_info_reporter.py)
 - 2026-10-09 — **Automated Report Generator** (Automation) — [2026-10-09_automated_report_generator.py](Automation/2026-10-09_automated_report_generator.py)
 - 2026-10-08 — **Log File Analyzer** (File) — [2026-10-08_log_file_analyzer.py](File/2026-10-08_log_file_analyzer.py)
 - 2026-10-07 — **File Compression Tool** (File) — [2026-10-07_file_compression_tool.py](File/2026-10-07_file_compression_tool.py)
