@@ -60,3 +60,4 @@ File|File Compression Tool
 File|Log File Analyzer
 Automation|Automated Report Generator
 Automation|System Info Reporter
+Networking|Simple Chat Server
