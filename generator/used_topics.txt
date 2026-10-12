@@ -61,3 +61,4 @@ File|Log File Analyzer
 Automation|Automated Report Generator
 Automation|System Info Reporter
 Networking|Simple Chat Server
+Networking|IP Address Lookup Tool
