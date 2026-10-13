@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-10-13 — **Personal Budget Planner** (Projects) — [2026-10-13_personal_budget_planner.py](Projects/2026-10-13_personal_budget_planner.py)
 - 2026-10-12 — **IP Address Lookup Tool** (Networking) — [2026-10-12_ip_address_lookup_tool.py](Networking/2026-10-12_ip_address_lookup_tool.py)
 - 2026-10-11 — **Simple Chat Server** (Networking) — [2026-10-11_simple_chat_server.py](Networking/2026-10-11_simple_chat_server.py)
 - 2026-10-10 — **System Info Reporter** (Automation) — [2026-10-10_system_info_reporter.py](Automation/2026-10-10_system_info_reporter.py)
