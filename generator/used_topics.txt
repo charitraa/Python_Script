@@ -63,3 +63,4 @@ Automation|System Info Reporter
 Networking|Simple Chat Server
 Networking|IP Address Lookup Tool
 Projects|Personal Budget Planner
+Projects|Habit Tracker
