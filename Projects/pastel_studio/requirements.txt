@@ -1,0 +1,6 @@
+# Pastel Studio - tested with Python 3.12 (works on 3.11+)
+numpy>=1.26,<3
+opencv-python-headless>=4.9   # image processing, webcam capture, fallback MP4 writer
+Pillow>=10.1
+# Optional: bundles an FFmpeg binary if FFmpeg is not installed system-wide
+# imageio-ffmpeg>=0.5
