@@ -67,3 +67,4 @@ Projects|Habit Tracker
 Projects|Recipe Finder
 Projects|Library Management System
 Projects|Contact Book Manager
+DataScience|Word Frequency Counter
