@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-10-19 — **CSV Data Merger** (DataScience) — [2026-10-19_csv_data_merger.py](DataScience/2026-10-19_csv_data_merger.py)
 - 2026-10-18 — **Word Frequency Counter** (DataScience) — [2026-10-18_word_frequency_counter.py](DataScience/2026-10-18_word_frequency_counter.py)
 - 2026-10-17 — **Contact Book Manager** (Projects) — [2026-10-17_contact_book_manager.py](Projects/2026-10-17_contact_book_manager.py)
 - 2026-10-16 — **Library Management System** (Projects) — [2026-10-16_library_management_system.py](Projects/2026-10-16_library_management_system.py)
