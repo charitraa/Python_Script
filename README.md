@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-10-23 — **Keyword Extractor** (AI) — [2026-10-23_keyword_extractor.py](AI/2026-10-23_keyword_extractor.py)
 - 2026-10-21 — **Snake Game (Console)** (Games) — [2026-10-21_snake_game_console.py](Games/2026-10-21_snake_game_console.py)
 - 2026-10-20 — **Memory Card Game** (Games) — [2026-10-20_memory_card_game.py](Games/2026-10-20_memory_card_game.py)
 - 2026-10-19 — **CSV Data Merger** (DataScience) — [2026-10-19_csv_data_merger.py](DataScience/2026-10-19_csv_data_merger.py)

@@ -71,3 +71,4 @@ DataScience|Word Frequency Counter
 DataScience|CSV Data Merger
 Games|Memory Card Game
 Games|Snake Game (Console)
+AI|Keyword Extractor
