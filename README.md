@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-10-26 — **Timezone Converter** (Utilities) — [2026-10-26_timezone_converter.py](Utilities/2026-10-26_timezone_converter.py)
 - 2026-10-25 — **URL Shortener** (Utilities) — [2026-10-25_url_shortener.py](Utilities/2026-10-25_url_shortener.py)
 - 2026-10-24 — **Simple Recommendation Engine** (AI) — [2026-10-24_simple_recommendation_engine.py](AI/2026-10-24_simple_recommendation_engine.py)
 - 2026-10-23 — **Keyword Extractor** (AI) — [2026-10-23_keyword_extractor.py](AI/2026-10-23_keyword_extractor.py)
