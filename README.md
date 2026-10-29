@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-10-29 — **Empty Folder Cleaner** (File) — [2026-10-29_empty_folder_cleaner.py](File/2026-10-29_empty_folder_cleaner.py)
 - 2026-10-28 — **CSV to SQLite Importer** (Database) — [2026-10-28_csv_to_sqlite_importer.py](Database/2026-10-28_csv_to_sqlite_importer.py)
 - 2026-10-27 — **Two Factor Code Generator** (Security) — [2026-10-27_two_factor_code_generator.py](Security/2026-10-27_two_factor_code_generator.py)
 - 2026-10-26 — **Timezone Converter** (Utilities) — [2026-10-26_timezone_converter.py](Utilities/2026-10-26_timezone_converter.py)
