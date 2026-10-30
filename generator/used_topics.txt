@@ -78,3 +78,4 @@ Utilities|Timezone Converter
 Security|Two Factor Code Generator
 Database|CSV to SQLite Importer
 File|Empty Folder Cleaner
+Web|Image Downloader
