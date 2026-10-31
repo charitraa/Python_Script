@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-10-31 — **Number Base Converter** (CLI) — [2026-10-31_number_base_converter.py](CLI/2026-10-31_number_base_converter.py)
 - 2026-10-30 — **Image Downloader** (Web) — [2026-10-30_image_downloader.py](Web/2026-10-30_image_downloader.py)
 - 2026-10-29 — **Empty Folder Cleaner** (File) — [2026-10-29_empty_folder_cleaner.py](File/2026-10-29_empty_folder_cleaner.py)
 - 2026-10-28 — **CSV to SQLite Importer** (Database) — [2026-10-28_csv_to_sqlite_importer.py](Database/2026-10-28_csv_to_sqlite_importer.py)
