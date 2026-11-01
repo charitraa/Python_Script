@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-11-01 — **Stock Price Tracker** (API) — [2026-11-01_stock_price_tracker.py](API/2026-11-01_stock_price_tracker.py)
 - 2026-10-31 — **Number Base Converter** (CLI) — [2026-10-31_number_base_converter.py](CLI/2026-10-31_number_base_converter.py)
 - 2026-10-30 — **Image Downloader** (Web) — [2026-10-30_image_downloader.py](Web/2026-10-30_image_downloader.py)
 - 2026-10-29 — **Empty Folder Cleaner** (File) — [2026-10-29_empty_folder_cleaner.py](File/2026-10-29_empty_folder_cleaner.py)

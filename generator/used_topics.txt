@@ -80,3 +80,4 @@ Database|CSV to SQLite Importer
 File|Empty Folder Cleaner
 Web|Image Downloader
 CLI|Number Base Converter
+API|Stock Price Tracker
