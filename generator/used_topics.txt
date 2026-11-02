@@ -81,3 +81,4 @@ File|Empty Folder Cleaner
 Web|Image Downloader
 CLI|Number Base Converter
 API|Stock Price Tracker
+API|Dictionary Lookup Tool
