@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-11-03 — **Text File Differ** (Utilities) — [2026-11-03_text_file_differ.py](Utilities/2026-11-03_text_file_differ.py)
 - 2026-11-02 — **Dictionary Lookup Tool** (API) — [2026-11-02_dictionary_lookup_tool.py](API/2026-11-02_dictionary_lookup_tool.py)
 - 2026-11-01 — **Stock Price Tracker** (API) — [2026-11-01_stock_price_tracker.py](API/2026-11-01_stock_price_tracker.py)
 - 2026-10-31 — **Number Base Converter** (CLI) — [2026-10-31_number_base_converter.py](CLI/2026-10-31_number_base_converter.py)
