@@ -83,3 +83,4 @@ CLI|Number Base Converter
 API|Stock Price Tracker
 API|Dictionary Lookup Tool
 Utilities|Text File Differ
+Web|Website Change Detector
