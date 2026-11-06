@@ -85,3 +85,4 @@ API|Dictionary Lookup Tool
 Utilities|Text File Differ
 Web|Website Change Detector
 File|Batch Text Replacer
+Automation|Desktop Cleaner
