@@ -87,3 +87,4 @@ Web|Website Change Detector
 File|Batch Text Replacer
 Automation|Desktop Cleaner
 Projects|Workout Tracker (CLI)
+Web|E-commerce Price Tracker
