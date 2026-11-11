@@ -89,3 +89,4 @@ Automation|Desktop Cleaner
 Projects|Workout Tracker (CLI)
 Web|E-commerce Price Tracker
 Utilities|Timestamp Converter
+File|PDF Page Extractor
