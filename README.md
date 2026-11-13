@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-11-13 — **Color Code Converter** (Utilities) — [2026-11-13_color_code_converter.py](Utilities/2026-11-13_color_code_converter.py)
 - 2026-11-11 — **PDF Page Extractor** (File) — [2026-11-11_pdf_page_extractor.py](File/2026-11-11_pdf_page_extractor.py)
 - 2026-11-10 — **Timestamp Converter** (Utilities) — [2026-11-10_timestamp_converter.py](Utilities/2026-11-10_timestamp_converter.py)
 - 2026-11-08 — **E-commerce Price Tracker** (Web) — [2026-11-08_e_commerce_price_tracker.py](Web/2026-11-08_e_commerce_price_tracker.py)
