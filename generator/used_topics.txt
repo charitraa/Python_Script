@@ -92,3 +92,4 @@ Utilities|Timestamp Converter
 File|PDF Page Extractor
 Utilities|Color Code Converter
 File|Large File Splitter
+API|Movie Info Fetcher
