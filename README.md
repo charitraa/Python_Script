@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-11-16 — **Markdown Link Extractor** (File) — [2026-11-16_markdown_link_extractor.py](File/2026-11-16_markdown_link_extractor.py)
 - 2026-11-15 — **Movie Info Fetcher** (API) — [2026-11-15_movie_info_fetcher.py](API/2026-11-15_movie_info_fetcher.py)
 - 2026-11-14 — **Large File Splitter** (File) — [2026-11-14_large_file_splitter.py](File/2026-11-14_large_file_splitter.py)
 - 2026-11-13 — **Color Code Converter** (Utilities) — [2026-11-13_color_code_converter.py](Utilities/2026-11-13_color_code_converter.py)
