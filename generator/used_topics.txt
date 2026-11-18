@@ -94,3 +94,4 @@ Utilities|Color Code Converter
 File|Large File Splitter
 API|Movie Info Fetcher
 File|Markdown Link Extractor
+Image|Image Cropper
