@@ -96,3 +96,4 @@ API|Movie Info Fetcher
 File|Markdown Link Extractor
 Image|Image Cropper
 Security|File Integrity Monitor
+File|EXIF Metadata Reader
