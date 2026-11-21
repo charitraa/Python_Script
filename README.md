@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-11-21 — **Daily Journal App** (Projects) — [2026-11-21_daily_journal_app.py](Projects/2026-11-21_daily_journal_app.py)
 - 2026-11-20 — **EXIF Metadata Reader** (File) — [2026-11-20_exif_metadata_reader.py](File/2026-11-20_exif_metadata_reader.py)
 - 2026-11-19 — **File Integrity Monitor** (Security) — [2026-11-19_file_integrity_monitor.py](Security/2026-11-19_file_integrity_monitor.py)
 - 2026-11-18 — **Image Cropper** (Image) — [2026-11-18_image_cropper.py](Image/2026-11-18_image_cropper.py)
