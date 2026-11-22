@@ -98,3 +98,4 @@ Image|Image Cropper
 Security|File Integrity Monitor
 File|EXIF Metadata Reader
 Projects|Daily Journal App
+Utilities|System Process Monitor
