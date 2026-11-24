@@ -100,3 +100,4 @@ File|EXIF Metadata Reader
 Projects|Daily Journal App
 Utilities|System Process Monitor
 Projects|Simple Note-Taking App
+Web|Basic HTML Table to CSV Converter

@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-11-24 — **Basic HTML Table to CSV Converter** (Web) — [2026-11-24_basic_html_table_to_csv_converter.py](Web/2026-11-24_basic_html_table_to_csv_converter.py)
 - 2026-11-24 — **Simple Note-Taking App** (Projects) — [2026-11-24_simple_note_taking_app.py](Projects/2026-11-24_simple_note_taking_app.py)
 - 2026-11-22 — **System Process Monitor** (Utilities) — [2026-11-22_system_process_monitor.py](Utilities/2026-11-22_system_process_monitor.py)
 - 2026-11-21 — **Daily Journal App** (Projects) — [2026-11-21_daily_journal_app.py](Projects/2026-11-21_daily_journal_app.py)
