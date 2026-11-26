@@ -41,6 +41,7 @@ Two folders sit outside that rotation:
 ## Latest Scripts
 
 <!-- LATEST_SCRIPTS_START -->
+- 2026-11-26 — **Web Form Filler** (Automation) — [2026-11-26_web_form_filler.py](Automation/2026-11-26_web_form_filler.py)
 - 2026-11-25 — **Folder Size Reporter** (File) — [2026-11-25_folder_size_reporter.py](File/2026-11-25_folder_size_reporter.py)
 - 2026-11-24 — **Basic HTML Table to CSV Converter** (Web) — [2026-11-24_basic_html_table_to_csv_converter.py](Web/2026-11-24_basic_html_table_to_csv_converter.py)
 - 2026-11-24 — **Simple Note-Taking App** (Projects) — [2026-11-24_simple_note_taking_app.py](Projects/2026-11-24_simple_note_taking_app.py)
